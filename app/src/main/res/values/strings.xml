@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CardView</string>
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">
+        AIzaSyAbl3KY5OkgP9p1QzmVwdA_ZLTfssOpdCM
+    </string>
+</resources>
